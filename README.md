@@ -76,7 +76,7 @@ Note worthy design choices:
 <!-- CONTACT -->
 ## Contact
 
-Adrian Marikar - [@your_LinkedIn](https://www.linkedin.com/in/adrianmarikar/) - adrianmarikar@gmail.com
+Adrian Marikar - [@adrianmarikar](https://www.linkedin.com/in/adrianmarikar/) - adrianmarikar@gmail.com
 
 Project Link: [https://github.com/alienfrenZyNo1/code-documenter](https://github.com/alienfrenZyNo1/code-documenter)
 
